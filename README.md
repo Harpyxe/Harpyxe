@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Kjell. A 23 year old Full-Stack developer from Hamburg, Germany.
 
 <!--
 **Harpyxe/Harpyxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
